@@ -1,0 +1,9 @@
+img{
+    height: 200px;
+    width: 300px;
+    margin: auto;
+}
+.flexc{
+ display: flex;
+ flex-direction: row;
+}
